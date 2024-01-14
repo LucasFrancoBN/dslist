@@ -20,7 +20,7 @@ Projeto desenvolvido durante a semana do Intensivão Java Spring. Neste reposit�
 
 6. **Seguimos o seguinte padrão de camadas:**
    
-   ![Padrão de camadas](https://github.com/LucasFrancoBN/exercicio_fixacao_composicao/blob/master/img/diagrama_classe.png)
+   ![Padrão de camadas](https://github.com/LucasFrancoBN/dslist/blob/main/img/padrao_camada.png)
 
 
 ## Ferramentas
